@@ -26,7 +26,7 @@ Natural - natural cover (see manuscript for details)
 --------------------------------------------------
 
 --------------------------------------------------
-2. "year_level.csv" - contains data for year-level analyses (namely, functional dispersion).
+2. "year_level.csv" - contains data for year-level analyses (namely, functional dispersion)
 
 SiteCode - site identifier
 Year - sample year
